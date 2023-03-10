@@ -123,6 +123,6 @@ POST /api/v1/posts/
 [Переходи при запущенном проекте](http://127.0.0.1:8000/redoc/)
 
 
-## Автор
+## Авторы
 
-- [@JUSTUCKER](https://github.com/JUSTUCKER)
+- [@JUSTUCKER](https://github.com/JUSTUCKER) при помощи [@yandex-praktikum](https://github.com/yandex-praktikum)
