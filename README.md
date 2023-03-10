@@ -6,12 +6,12 @@
 
 Клонировать репозиторий:
 ```bash
-git clone https://github.com/JUSTUCKER/api_final_yatube.git
+git clone https://github.com/JUSTUCKER/API_for_Yatube.git
 ```
 
 Перейти в папку с проектом:
 ```bash
-cd api_final_yatube/
+cd api_for_yatube/
 ```
 
 Создать виртуальное окружение:
